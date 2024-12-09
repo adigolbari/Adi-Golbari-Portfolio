@@ -42,9 +42,3 @@ TBD
 
 ---
 
-## **How to Explore This Repository**
-Each project is stored in its own folder with a README file detailing:
-- Project objectives
-- Methodology
-- Key findings
-- Instructions to replicate the work
