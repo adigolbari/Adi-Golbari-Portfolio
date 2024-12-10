@@ -39,7 +39,7 @@ TBD
 - **Key Skills**: CNN, Image Classification, Python, TensorFlow, PyTorch, Data Preprocessing, Data Augmentation, Model Evaluation and Tuning
 - [Link to Colab Notebook](https://colab.research.google.com/gist/adigolbari/39959fcde28478dd87abe536701a1993/cats_vs_dogs.ipynb)
 
----
+##
 
 ### **2. Predicting Heart Disease Using ML Models** 🫀💉
 - **Description**:  Develop a ML tool for early diagnosis and risk assessment of heart disease.
