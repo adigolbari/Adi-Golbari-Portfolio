@@ -21,6 +21,8 @@ Since most jobs require experience (which can only be gained on the job) the cla
 My goal is to explore core topics in the data science field. 
 Check out my project below, and if you want to connect and get the full vibes, feel free to reach me 😉.
 
+[Download my resume]([https://github.com/your-username/your-repository-name/raw/main/resume.pdf](https://github.com/adigolbari/Adi-Golbari-Portfolio/blob/main/Resume%20Adi%20Golbari.pdf))
+
 ---
 
 ## **Key Skills**
@@ -52,7 +54,7 @@ Check out my project below, and if you want to connect and get the full vibes, f
 ---
 
 ## **Contact Me**
-TBD
+
 - **Email**: [adiyogevv@gmail.com](mailto:adiyogevv@gmail.com)  
 - **LinkedIn**: [www.linkedin.com/in/adi-yogev](https://www.linkedin.com/in/adi-yogev)  
 - **GitHub**: [github.com/Adi-Golbari](https://github.com/Adi-Golbari)
