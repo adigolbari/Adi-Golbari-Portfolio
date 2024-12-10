@@ -1,6 +1,5 @@
- **Adi Golbari**  
-<b>Data Science Portfolio</b>
-#
+# **Adi Golbari** - Data Science Portfolio
+
 
 
 1. [About Me](#about-me)
