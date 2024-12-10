@@ -1,5 +1,5 @@
 # **Adi Golbari**
-## **Data Science Portfolio**
+**Data Science Portfolio**
 
 1. [About Me](#about-me)
 2. [Key Skills](#key-skills)
