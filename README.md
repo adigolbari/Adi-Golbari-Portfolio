@@ -1,5 +1,5 @@
 # **Adi Golbari**  
-<b>**Data Science Portfolio**</b>
+<b>Data Science Portfolio</b>
 
 
 
