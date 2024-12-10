@@ -17,6 +17,7 @@ Now, I’m a Master’s student in Data Science at Ben Gurion University.
 Since most jobs require experience (which can only be gained on the job) the classic junior paradox, I decided to gain practical experience on my own.
 
 My goal is to explore core topics in the data science field. 
+
 Check out my project below, and if you want to connect and get the full vibes, feel free to reach me 😉.
 
 [Download my resume](https://github.com/adigolbari/Adi-Golbari-Portfolio/raw/main/Resume%20Adi%20Golbari.pdf)
