@@ -1,14 +1,5 @@
 # **Adi Golbari - Data Science Portfolio**
 
-A year and a half ago, I left my previous job during pregnancy, a war, and with my husband in reserves, to chase my dream of becoming a Data Scientist (don’t try this at home 🙃). 
-
-Now, I’m a Master’s student in Data Science at Ben Gurion University. 
-
-Since most jobs require experience (which can only be gained on the job) the classic junior paradox, I decided to gain practical experience on my own.
-
-My goal is to explore core topics in the data science field. 
-Check out my project below, and if you want to connect and get the full vibes, feel free to reach me 😉.
-
 ---
 
 ## **Table of Contents**
@@ -20,7 +11,15 @@ Check out my project below, and if you want to connect and get the full vibes, f
 ---
 
 ## **About Me**
-TBD
+
+A year and a half ago, I left my previous job during pregnancy, a war, and with my husband in reserves, to chase my dream of becoming a Data Scientist (don’t try this at home 🙃). 
+
+Now, I’m a Master’s student in Data Science at Ben Gurion University. 
+
+Since most jobs require experience (which can only be gained on the job) the classic junior paradox, I decided to gain practical experience on my own.
+
+My goal is to explore core topics in the data science field. 
+Check out my project below, and if you want to connect and get the full vibes, feel free to reach me 😉.
 
 ---
 
