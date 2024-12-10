@@ -25,7 +25,7 @@ TBD
 
 ## **Projects**
 
-### **1. Cat vs Dogs CNN** 🐶 🐱
+### **1. Cat vs Dogs Using CNN** 🐶 🐱
 - **Description**: Applied CNN to identify Cats and Dogs images.
 - **Key Skills**: CNN, Image Classification, Python, TensorFlow, PyTorch, Data Preprocessing, Data Augmentation, Model Evaluation and Tuning
 - [Link to Colab Notebook](https://colab.research.google.com/gist/adigolbari/39959fcde28478dd87abe536701a1993/cats_vs_dogs.ipynb)
