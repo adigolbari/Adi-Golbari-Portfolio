@@ -1,4 +1,5 @@
-# **Adi Golbari** - Data Science Portfolio
+**Adi Golbari** - Data Science Portfolio
+---
 
 ## **About Me**
 
@@ -16,8 +17,6 @@ Check out my projects below, and if you want to connect and get the full vibes, 
 [![Download my resume](https://img.shields.io/badge/Download%20my%20resume-133926?style=flat-square&logo=download&logoColor=white)](https://github.com/adigolbari/Adi-Golbari-Portfolio/raw/main/Resume%20Adi%20Golbari.pdf)
 
 </div>
-
-
 
 
 ---
