@@ -43,7 +43,6 @@ Check out my projects below, and if you want to connect and get the full vibes, 
 ![Data Augmentation](https://img.shields.io/badge/Data%20Augmentation-%2336486b?style=flat-square&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%2336486b?style=flat-square&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2336486b?style=flat-square&logoColor=white)
-
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%2336486b?style=flat-square&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%2336486b?style=flat-square&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%2336486b?style=flat-square&logoColor=white)
