@@ -1,12 +1,5 @@
 # **Adi Golbari** - Data Science Portfolio
 
-
-
-1. [About Me](#about-me)
-2. [Key Skills](#key-skills)
-3. [Projects](#projects)
----
-
 ## **About Me**
 
 A year and a half ago, I left my previous job during pregnancy, a war, and with a husband in reserves, to chase my dream of becoming a Data Scientist (don’t try this at home 🙃). 
