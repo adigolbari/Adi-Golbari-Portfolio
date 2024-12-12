@@ -25,10 +25,16 @@ Check out my projects below, and if you want to connect and get the full vibes, 
 ---
 
 ## **Key Skills**
-- **Programming**: Python, SQL  
-- **Libraries/Frameworks**: pandas, scikit-learn, TensorFlow, Matplotlib, Seaborn  
-- **Tools**: Jupyter Notebook, Google Colab, Git  
-- **Techniques**: Machine learning, Statistical analysis, Data visualization
+### 🛠️ Skills and Tools
+
+- **Machine Learning (ML)** ![90%](https://progress-bar.dev/90)
+- **Python** ![95%](https://progress-bar.dev/95)
+- **Scikit-Learn** ![85%](https://progress-bar.dev/85)
+- **Data Preprocessing** ![80%](https://progress-bar.dev/80)
+- **Hyperparameter Tuning** ![75%](https://progress-bar.dev/75)
+- **Image Classification** ![70%](https://progress-bar.dev/70)
+
+
 
 ---
 
