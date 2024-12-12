@@ -1,4 +1,4 @@
-<div style="font-size: 15em; font-weight: bold;">
+<div style="font-size: 24px; font-weight: bold;">
 <strong>Adi Golbari - Data Science Portfolio</strong>
 </div>
 
