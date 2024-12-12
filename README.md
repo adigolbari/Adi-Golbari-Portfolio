@@ -26,8 +26,8 @@ Check out my projects below, and if you want to connect and get the full vibes, 
 
 ## **Key Skills**
 
-https://img.shields.io/badge/Machine Learning
--#6699ff?style=STYLE
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%232ea44f?style=flat-square)
+
 
 ---
 
