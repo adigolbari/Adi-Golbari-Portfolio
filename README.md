@@ -5,7 +5,6 @@
 1. [About Me](#about-me)
 2. [Key Skills](#key-skills)
 3. [Projects](#projects)
-4. [Contact Me](#contact-me)
 ---
 
 ## **About Me**
@@ -84,13 +83,13 @@ Check out my projects below, and if you want to connect and get the full vibes, 
 
 ---
 
-## **Contact Me**
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adiyogevv@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adi-yogev)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Adi-Golbari)
+[![Download my resume](https://img.shields.io/badge/Download%20my%20resume-133926?style=flat-square&logo=download&logoColor=white)](https://github.com/adigolbari/Adi-Golbari-Portfolio/raw/main/Resume%20Adi%20Golbari.pdf)
 
 </div>
 
