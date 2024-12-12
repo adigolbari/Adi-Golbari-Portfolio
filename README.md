@@ -21,7 +21,7 @@ Check out my projects below, and if you want to connect and get the full vibes, 
 
 <div align="left">
 
-[![Download my resume](https://img.shields.io/badge/Download%20my%20resume-4CAF50?style=flat-square&logo=adobeacrobatreader&logoColor=Dark Forest Green)](https://github.com/adigolbari/Adi-Golbari-Portfolio/raw/main/Resume%20Adi%20Golbari.pdf)
+[![Download my resume](https://img.shields.io/badge/Download%20my%20resume-4CAF50?style=flat-square&logo=download&logoColor=white)](https://github.com/adigolbari/Adi-Golbari-Portfolio/raw/main/Resume%20Adi%20Golbari.pdf)
 
 </div>
 
