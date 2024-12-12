@@ -1,4 +1,4 @@
-**Adi Golbari** - Data Science Portfolio
+# **Adi Golbari** - Data Science Portfolio
 
 ---
 
