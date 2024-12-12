@@ -25,16 +25,8 @@ Check out my projects below, and if you want to connect and get the full vibes, 
 ---
 
 ## **Key Skills**
-💡 Machine Learning (ML)           🔍 Predictive Modeling
-📊 Exploratory Data Analysis (EDA)  🔧 Data Preprocessing
-🛠️ Feature Engineering             🎛️ Hyperparameter Tuning
-⚙️ Classification Algorithms        📈 Model Evaluation
-✨ Optuna                           🎨 Data Visualization
-🐍 Python                           🧰 Scikit-Learn
-🖼️ CNNs (Convolutional Neural Nets)  🖼️ Image Classification
-🔗 TensorFlow                       🔗 PyTorch
-🔄 Data Augmentation
-
+🛠️ Skills and Expertise
+<div align="center"> <table> <tr> <td align="center" width="150"> <img src="https://img.shields.io/badge/-Machine%20Learning-2ea44f?style=for-the-badge"> </td> <td align="center" width="150"> <img src="https://img.shields.io/badge/-Predictive%20Modeling-blue?style=for-the-badge"> </td> <td align="center" width="150"> <img src="https://img.shields.io/badge/-EDA%20(Exploratory%20Data%20Analysis)-orange?style=for-the-badge"> </td> <td align="center" width="150"> <img src="https://img.shields.io/badge/-Data%20Preprocessing-yellow?style=for-the-badge"> </td> </tr> <tr> <td align="center" width="150"> <img src="https://img.shields.io/badge/-Feature%20Engineering-red?style=for-the-badge"> </td> <td align="center" width="150"> <img src="https://img.shields.io/badge/-Hyperparameter%20Tuning-green?style=for-the-badge"> </td> <td align="center" width="150"> <img src="https://img.shields.io/badge/-Classification%20Algorithms-purple?style=for-the-badge"> </td> <td align="center" width="150"> <img src="https://img.shields.io/badge/-Model%20Evaluation-cyan?style=for-the-badge"> </td> </tr> <tr> <td align="center" width="150"> <img src="https://img.shields.io/badge/-Optuna-blueviolet?style=for-the-badge"> </td> <td align="center" width="150"> <img src="https://img.shields.io/badge/-Data%20Visualization-brightgreen?style=for-the-badge"> </td> <td align="center" width="150"> <img src="https://img.shields.io/badge/-Python-2b5797?style=for-the-badge"> </td> <td align="center" width="150"> <img src="https://img.shields.io/badge/-Scikit--Learn-orange?style=for-the-badge"> </td> </tr> <tr> <td align="center" width="150"> <img src="https://img.shields.io/badge/-CNN%20(Convolutional%20Neural%20Nets)-teal?style=for-the-badge"> </td> <td align="center" width="150"> <img src="https://img.shields.io/badge/-Image%20Classification-blue?style=for-the-badge"> </td> <td align="center" width="150"> <img src="https://img.shields.io/badge/-TensorFlow-yellow?style=for-the-badge"> </td> <td align="center" width="150"> <img src="https://img.shields.io/badge/-PyTorch-red?style=for-the-badge"> </td> </tr> <tr> <td align="center" width="150"> <img src="https://img.shields.io/badge/-Data%20Augmentation-purple?style=for-the-badge"> </td> </tr> </table> </div>
 ---
 
 ## **Projects**
