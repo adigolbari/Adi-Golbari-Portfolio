@@ -19,9 +19,9 @@ Since most jobs require experience (which can only be gained on the job) the cla
 My goal is to explore core topics in the data science field. 
 Check out my projects below, and if you want to connect and get the full vibes, feel free to reach me 😉.
 
-<div align="center">
+<div align="left">
 
-[![Resume](https://img.shields.io/badge/-Resume-4CAF50?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/adigolbari/Adi-Golbari-Portfolio/raw/main/Resume%20Adi%20Golbari.pdf)
+[![Download My Resume](https://img.shields.io/badge/-Resume-4CAF50?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/adigolbari/Adi-Golbari-Portfolio/raw/main/Resume%20Adi%20Golbari.pdf)
 
 </div>
 
