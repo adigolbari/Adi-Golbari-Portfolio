@@ -25,16 +25,15 @@ Check out my projects below, and if you want to connect and get the full vibes, 
 ---
 
 ## **Key Skills**
-### 🛠️ Skills and Tools
-
-- **Machine Learning (ML)** ![90%](https://progress-bar.dev/90)
-- **Python** ![95%](https://progress-bar.dev/95)
-- **Scikit-Learn** ![85%](https://progress-bar.dev/85)
-- **Data Preprocessing** ![80%](https://progress-bar.dev/80)
-- **Hyperparameter Tuning** ![75%](https://progress-bar.dev/75)
-- **Image Classification** ![70%](https://progress-bar.dev/70)
-
-
+💡 Machine Learning (ML)           🔍 Predictive Modeling
+📊 Exploratory Data Analysis (EDA)  🔧 Data Preprocessing
+🛠️ Feature Engineering             🎛️ Hyperparameter Tuning
+⚙️ Classification Algorithms        📈 Model Evaluation
+✨ Optuna                           🎨 Data Visualization
+🐍 Python                           🧰 Scikit-Learn
+🖼️ CNNs (Convolutional Neural Nets)  🖼️ Image Classification
+🔗 TensorFlow                       🔗 PyTorch
+🔄 Data Augmentation
 
 ---
 
