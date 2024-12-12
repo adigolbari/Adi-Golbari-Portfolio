@@ -1,4 +1,7 @@
-# **Adi Golbari** - Data Science Portfolio
+<div style="font-size: 2em; font-weight: bold;">
+Adi Golbari - Data Science Portfolio
+</div>
+
 
 ---
 
