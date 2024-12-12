@@ -80,9 +80,14 @@ Check out my projects below, and if you want to connect and get the full vibes, 
 
 ## **Contact Me**
 
-- **Email**: [adiyogevv@gmail.com](mailto:adiyogevv@gmail.com)  
-- **LinkedIn**: [www.linkedin.com/in/adi-yogev](https://www.linkedin.com/in/adi-yogev)  
-- **GitHub**: [github.com/Adi-Golbari](https://github.com/Adi-Golbari)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adiyogevv@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adi-yogev)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Adi-Golbari)
+
+</div>
+
 
 ---
 
