@@ -28,27 +28,28 @@ Check out my projects below, and if you want to connect and get the full vibes, 
 
 <div align="center">
 
-![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-lightgrey?style=flat-square)
-![EDA (Exploratory Data Analysis)](https://img.shields.io/badge/EDA%20(Exploratory%20Data%20Analysis)-lightgrey?style=flat-square)
-![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-lightgrey?style=flat-square)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-lightgrey?style=flat-square)
-![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-lightgrey?style=flat-square)
+![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-%23d5f4e6?style=flat-square)
+![EDA (Exploratory Data Analysis)](https://img.shields.io/badge/EDA%20(Exploratory%20Data%20Analysis)-%2380ced6?style=flat-square)
+![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-%23fefbd8?style=flat-square)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-%23618685?style=flat-square)
+![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-%23d6cbd3?style=flat-square)
 
-![Classification Algorithms](https://img.shields.io/badge/Classification%20Algorithms-lightgrey?style=flat-square)
-![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-lightgrey?style=flat-square)
-![Optuna](https://img.shields.io/badge/Optuna-lightgrey?style=flat-square)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-lightgrey?style=flat-square)
-![Python](https://img.shields.io/badge/Python-lightgrey?style=flat-square)
+![Classification Algorithms](https://img.shields.io/badge/Classification%20Algorithms-%23eca1a6?style=flat-square)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-%23bdcebe?style=flat-square)
+![Optuna](https://img.shields.io/badge/Optuna-%23ada397?style=flat-square)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%23d5f4e6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-%2380ced6?style=flat-square)
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-lightgrey?style=flat-square)
-![CNN (Convolutional Neural Networks)](https://img.shields.io/badge/CNN%20(Convolutional%20Neural%20Networks)-lightgrey?style=flat-square)
-![Image Classification](https://img.shields.io/badge/Image%20Classification-lightgrey?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-lightgrey?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-lightgrey?style=flat-square)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23fefbd8?style=flat-square)
+![CNN (Convolutional Neural Networks)](https://img.shields.io/badge/CNN%20(Convolutional%20Neural%20Networks)-%23618685?style=flat-square)
+![Image Classification](https://img.shields.io/badge/Image%20Classification-%23d6cbd3?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23eca1a6?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23bdcebe?style=flat-square)
 
-![Data Augmentation](https://img.shields.io/badge/Data%20Augmentation-lightgrey?style=flat-square)
+![Data Augmentation](https://img.shields.io/badge/Data%20Augmentation-%23ada397?style=flat-square)
 
 </div>
+
 
 
 ---
