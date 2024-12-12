@@ -25,8 +25,10 @@ Check out my projects below, and if you want to connect and get the full vibes, 
 ---
 
 ## **Key Skills**
-🛠️ Skills and Expertise
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;"> <div style="border-radius: 50%; background-color: #2ea44f; color: white; width: 120px; height: 120px; display: flex; align-items: center; justify-content: center; font-weight: bold;"> Machine Learning </div> <div style="border-radius: 50%; background-color: #0366d6; color: white; width: 120px; height: 120px; display: flex; align-items: center; justify-content: center; font-weight: bold;"> Predictive Modeling </div> <div style="border-radius: 50%; background-color: #ff9900; color: white; width: 120px; height: 120px; display: flex; align-items: center; justify-content: center; font-weight: bold;"> EDA </div> <div style="border-radius: 50%; background-color: #ffcc00; color: white; width: 120px; height: 120px; display: flex; align-items: center; justify-content: center; font-weight: bold;"> Data Preprocessing </div> <div style="border-radius: 50%; background-color: #e34f26; color: white; width: 120px; height: 120px; display: flex; align-items: center; justify-content: center; font-weight: bold;"> Feature Engineering </div> <div style="border-radius: 50%; background-color: #20c997; color: white; width: 120px; height: 120px; display: flex; align-items: center; justify-content: center; font-weight: bold;"> Hyperparameter Tuning </div> <div style="border-radius: 50%; background-color: #6f42c1; color: white; width: 120px; height: 120px; display: flex; align-items: center; justify-content: center; font-weight: bold;"> Classification Algorithms </div> <div style="border-radius: 50%; background-color: #28a745; color: white; width: 120px; height: 120px; display: flex; align-items: center; justify-content: center; font-weight: bold;"> Data Visualization </div> </div>
+
+https://img.shields.io/badge/Machine Learning
+-#6699ff?style=STYLE
+
 ---
 
 ## **Projects**
