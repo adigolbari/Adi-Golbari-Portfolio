@@ -54,22 +54,6 @@ Check out my projects below, and if you want to connect and get the full vibes, 
 
 
 
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Machine%20Learning-%2336486b?style=flat-square&logoColor=white">
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Machine%20Learning-%23b3ccff?style=flat-square&logoColor=black">
-  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-%2336486b?style=flat-square&logoColor=white">
-</picture>
-
-
-
-
-
-</div>
-
 ---
 
 ## **Projects**
