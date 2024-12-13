@@ -56,7 +56,27 @@ Check out my projects below, and if you want to connect and get the full vibes, 
 
 </div>
 
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Machine%20Learning-%2336486b?style=flat-square&logoColor=white">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Machine%20Learning-%23ffffff?style=flat-square&logoColor=black">
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-%2336486b?style=flat-square&logoColor=white">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Predictive%20Modeling-%2336486b?style=flat-square&logoColor=white">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Predictive%20Modeling-%23ffffff?style=flat-square&logoColor=black">
+  <img alt="Predictive Modeling" src="https://img.shields.io/badge/Predictive%20Modeling-%2336486b?style=flat-square&logoColor=white">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CNN%20(Convolutional%20Neural%20Networks)-%2336486b?style=flat-square&logoColor=white">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CNN%20(Convolutional%20Neural%20Networks)-%23ffffff?style=flat-square&logoColor=black">
+  <img alt="CNN (Convolutional Neural Networks)" src="https://img.shields.io/badge/CNN%20(Convolutional%20Neural%20Networks)-%2336486b?style=flat-square&logoColor=white">
+</picture>
+
+</div>
 
 ---
 
